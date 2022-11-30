@@ -1,2 +1,1 @@
-# educational_management_system
- Python Curriculum Design
+# Python课设 教务管理系统
